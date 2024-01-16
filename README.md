@@ -8,7 +8,7 @@
 - 👀 Estoy interesado en estudiar todo lo relacionado con ingeniería del software.
 - 🌱 Actualmente me encuentro estudiando el grado en Ingeniería Informática en la Universidad de Murcia
 - 🌱 Aquí iré subiendo todos mis proyectos personales incluidos aquellos que realice durante el grado.
-  <p>¡Siempre tratando de dar lo mejor de mí!</p>
+  <p>¡Siempre tratando dar lo mejor de mí!</p>
 
 <!---
 fsoladur/fsoladur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
