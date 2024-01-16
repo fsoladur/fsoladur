@@ -2,7 +2,7 @@
 - 👀 I'm interested in everything that involves software engineering.
 - 🌱 I'm currently studying Computer Science Degree in University of Murcia.
 - 🌱 I will be uploading all my personal projects in this profile including those I'm doing during my degree.
-<p>Always trying to do my best!</p>
+  <p>Always trying to do my best!</p>
 
 - 👋 Hola, soy @fsoladur.
 - 👀 Estoy interesado en estudiar todo lo relacionado con ingeniería del software.
