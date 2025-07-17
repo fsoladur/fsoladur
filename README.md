@@ -2,13 +2,21 @@
 - 👀 I'm interested in everything that involves software engineering.
 - 🌱 I studied Computer Engineering Degree in University of Murcia.
 - 🌱 I will be uploading all my personal projects on this profile, including those I developed during my degree, which I’ve recently completed.
-  <p>Always trying to do my best!</p>
+- 📂 You can check the repository of my Final Degree Project here:  
+  [github.com/modelum/LLMigrator-DB](https://github.com/modelum/LLMigrator-DB)
+
+<p>Always trying to do my best!</p>
 
 - 👋 Hola, soy @fsoladur.
 - 👀 Estoy interesado en estudiar todo lo relacionado con ingeniería del software.
-- 🌱 Actualmente he finalizado el grado en Ingeniería Informática en la Universidad de Murcia
+- 🌱 Actualmente he finalizado el grado en Ingeniería Informática en la Universidad de Murcia.
 - 🌱 Estaré subiendo todos mis proyectos personales en este perfil, incluyendo aquellos que desarrollé durante el grado, el cual he finalizado recientemente.
-  <p>¡Siempre tratando dar lo mejor de mí!</p>
+- 📂 Puedes consultar el repositorio de mi Trabajo Fin de Grado aquí:  
+  [github.com/modelum/LLMigrator-DB](https://github.com/modelum/LLMigrator-DB)
+
+<p>¡Siempre tratando de dar lo mejor de mí!</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
