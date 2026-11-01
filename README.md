@@ -6,6 +6,7 @@
   <br /><br />
   <a href="https://github.com/fsoladur"><img src="https://img.shields.io/badge/GitHub-fsoladur-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: fsoladur" /></a>
   <a href="https://github.com/modelum/LLMigrator-DB"><img src="https://img.shields.io/badge/Featured-LLMigrator--DB-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: LLMigrator-DB" /></a>
+  <a href="https://github.com/fsoladur/Solidarian-ID"><img src="https://img.shields.io/badge/Featured-Solidarian--ID-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: Solidarian-ID" /></a>
 </div>
 
 <br />
