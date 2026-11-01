@@ -1,84 +1,81 @@
-- 👋 Hi, I’m @fsoladur.
-- 👀 I'm interested in everything that involves software engineering.
-- 🌱 I studied Computer Engineering Degree in University of Murcia.
-- 🌱 I will be uploading all my personal projects on this profile, including those I developed during my degree, which I’ve recently completed.
-- 📂 You can check the repository of my Final Degree Project here:  
-  [github.com/modelum/LLMigrator-DB](https://github.com/modelum/LLMigrator-DB)
+<!-- GitHub supports a safe subset of HTML in Markdown, plus SVG animations via <img>. -->
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Fabián Sola Durán — Software Engineer focused on backend, distributed systems and AI" />
+  <br /><br />
+  <img src="assets/typing.svg" width="96%" alt="Animated introduction about backend engineering, Java, Kafka and AI agents" />
+  <br /><br />
+  <a href="https://github.com/fsoladur"><img src="https://img.shields.io/badge/GitHub-fsoladur-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: fsoladur" /></a>
+  <a href="https://github.com/modelum/LLMigrator-DB"><img src="https://img.shields.io/badge/Featured-LLMigrator--DB-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: LLMigrator-DB" /></a>
+</div>
 
-<p>Always trying to do my best!</p>
+<br />
 
-- 👋 Hola, soy @fsoladur.
-- 👀 Estoy interesado en estudiar todo lo relacionado con ingeniería del software.
-- 🌱 Actualmente he finalizado el grado en Ingeniería Informática en la Universidad de Murcia.
-- 🌱 Estaré subiendo todos mis proyectos personales en este perfil, incluyendo aquellos que desarrollé durante el grado, el cual he finalizado recientemente.
-- 📂 Puedes consultar el repositorio de mi Trabajo Fin de Grado aquí:  
-  [github.com/modelum/LLMigrator-DB](https://github.com/modelum/LLMigrator-DB)
+<h2>👨‍💻 About me</h2>
 
-<p>¡Siempre tratando de dar lo mejor de mí!</p>
+<table>
+  <tr>
+    <td valign="top" width="54%">
+      <p>I'm a <strong>Software Engineer</strong> based in Spain, focused on building reliable backend services and cloud-native systems.</p>
+      <p>My professional work centers on <strong>Java, Spring Boot, Apache Kafka, event-driven microservices, API-first development, observability, and Azure Kubernetes Service (AKS)</strong>.</p>
+      <p>I'm also pursuing an <strong>MSc in Software Engineering</strong> at the University of Murcia and exploring AI agents for developer tooling and database migration.</p>
+      <p><strong>What I care about:</strong> clean boundaries, distributed systems, automated testing, security and shipping maintainable software.</p>
+    </td>
+    <td valign="top" width="46%">
+      <img src="assets/terminal.svg" width="100%" alt="Animated terminal listing engineering interests and technology stack" />
+    </td>
+  </tr>
+</table>
 
+<h2>⚙️ Tech stack</h2>
 
+<table>
+  <tr>
+    <td width="27%"><strong>Backend &amp; APIs</strong></td>
+    <td><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>REST</code> <code>OpenAPI</code> <code>Kafka</code> <code>RabbitMQ</code></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud &amp; DevOps</strong></td>
+    <td><code>Docker</code> <code>Kubernetes</code> <code>Azure AKS</code> <code>Azure DevOps</code> <code>CI/CD</code> <code>OpenTelemetry</code></td>
+  </tr>
+  <tr>
+    <td><strong>Data &amp; Quality</strong></td>
+    <td><code>PostgreSQL</code> <code>MySQL</code> <code>MongoDB</code> <code>Redis</code> <code>JUnit 5</code> <code>Mockito</code> <code>Testcontainers</code></td>
+  </tr>
+  <tr>
+    <td><strong>Projects &amp; AI</strong></td>
+    <td><code>TypeScript</code> <code>NestJS</code> <code>LangChain</code> <code>LangGraph</code> <code>DeepAgents</code> <code>Spring AI</code></td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+<sub>Technologies listed under "Projects & AI" include project-based and learning experience, not necessarily professional production experience.</sub>
 
+<h2>🚀 Featured projects</h2>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🧠 <a href="https://github.com/modelum/LLMigrator-DB">LLMigrator-DB</a></h3>
+      <p>My Bachelor's Thesis: an LLM-powered tool that assists with database schema migration, data migration, validation and application code migration.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Spring AI</code> <code>OpenRouter</code></p>
+      <a href="https://github.com/modelum/LLMigrator-DB">Explore repository →</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤝 <a href="https://github.com/fsoladur/SolidarianID">SolidarianID</a></h3>
+      <p>A social-impact platform for communities, causes and collaborative initiatives, built with a modular approach and modern web technologies.</p>
+      <p><code>TypeScript</code> <code>NestJS</code> <code>React</code> <code>gRPC</code></p>
+      <a href="https://github.com/fsoladur/SolidarianID">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
-<!---
-fsoladur/fsoladur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>🔭 Currently exploring</h2>
+
+- AI-agent orchestration with LangChain, LangGraph and DeepAgents.
+- Agent-based database migration and software engineering tools.
+- Reliable distributed systems, API security, observability and software architecture.
+
+<div align="center">
+  <hr />
+  <p><strong>Build thoughtfully. Test thoroughly. Keep improving.</strong></p>
+  <a href="https://github.com/fsoladur?tab=repositories">Explore my repositories</a>
+</div>

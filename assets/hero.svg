@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="345" viewBox="0 0 1200 345" role="img" aria-label="Fabián Sola Durán - Software Engineer; animated diagram of backend services">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1120"/><stop offset="1" stop-color="#111d35"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M 35 0 L 0 0 0 35" fill="none" stroke="#1f3351" stroke-opacity=".55" stroke-width="1"/></pattern>
+    <radialGradient id="glow"><stop offset="0" stop-color="#1c6e97" stop-opacity=".18"/><stop offset="1" stop-color="#1c6e97" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="345" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="345" rx="24" fill="url(#grid)" opacity=".48"/>
+  <ellipse cx="951" cy="164" rx="305" ry="245" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="343" rx="23" fill="none" stroke="#2b405b" stroke-width="2"/>
+  <circle cx="63" cy="56" r="7" fill="#fb7185"/><circle cx="87" cy="56" r="7" fill="#fbbf24"/><circle cx="111" cy="56" r="7" fill="#34d399"/>
+  <text x="141" y="62" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#90a6c8">~/fsoladur/profile</text>
+  <text x="70" y="121" font-family="ui-monospace, Consolas, monospace" font-size="20" fill="#34d399">$ whoami</text>
+  <text x="67" y="198" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" fill="#edf5ff">Fabián Sola Durán</text>
+  <rect x="70" y="221" width="393" height="4" rx="2" fill="url(#accent)"><animate attributeName="width" values="160;393;393;160" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="70" y="268" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#93c5fd">Software Engineer</text>
+  <text x="70" y="299" font-family="ui-monospace, Consolas, monospace" font-size="19" fill="#a8bdd6">BACKEND / DISTRIBUTED SYSTEMS / AI</text>
+  <!-- Animated service graph on the right -->
+  <g fill="none" stroke="#376288" stroke-width="3" stroke-linecap="round">
+    <path id="p1" d="M 810 173 L 933 97" stroke-dasharray="8 11"><animate attributeName="stroke-dashoffset" from="38" to="0" dur="3s" repeatCount="indefinite"/></path>
+    <path id="p2" d="M 810 173 L 934 259" stroke-dasharray="8 11"><animate attributeName="stroke-dashoffset" from="0" to="38" dur="3s" repeatCount="indefinite"/></path>
+    <path id="p3" d="M 936 97 L 1063 173 L 936 259" stroke-dasharray="8 11"><animate attributeName="stroke-dashoffset" from="38" to="0" dur="4s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#0c2035" stroke="#60a5fa" stroke-width="2.5">
+    <circle cx="809" cy="173" r="49"/><circle cx="934" cy="96" r="42"/><circle cx="934" cy="259" r="42"/><circle cx="1062" cy="173" r="49"/>
+  </g>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="17" font-weight="700" text-anchor="middle">
+    <text x="809" y="179" fill="#bfdbfe">API</text>
+    <text x="934" y="102" fill="#6ee7b7">DB</text>
+    <text x="934" y="265" fill="#6ee7b7">MQ</text>
+    <text x="1062" y="179" fill="#bfdbfe">CLOUD</text>
+  </g>
+  <circle cx="810" cy="173" r="59" fill="none" stroke="#60a5fa" stroke-opacity=".3" stroke-width="2"><animate attributeName="r" values="52;65;52" dur="3s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="3s" repeatCount="indefinite"/></circle>
+  <circle r="6" fill="#34d399"><animateMotion dur="4s" repeatCount="indefinite" path="M 810 173 L 933 97 L 1062 173"/></circle>
+  <circle r="5" fill="#60a5fa"><animateMotion dur="4.2s" repeatCount="indefinite" path="M 1062 173 L 936 259 L 810 173"/></circle>
+  <rect x="1122" y="28" width="44" height="11" rx="5.5" fill="#34d399" opacity=".7"><animate attributeName="opacity" values=".25;.85;.25" dur="2.5s" repeatCount="indefinite"/></rect>
+</svg>
