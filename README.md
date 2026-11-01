@@ -10,7 +10,7 @@
 
 <br />
 
-<h2>👨‍💻 About me</h2>
+<h2>About me</h2>
 
 <table>
   <tr>
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<h2>⚙️ Tech stack</h2>
+<h2>Tech stack</h2>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
 
 <sub>Technologies listed under "Projects & AI" include project-based and learning experience, not necessarily professional production experience.</sub>
 
-<h2>🚀 Featured projects</h2>
+<h2>Featured projects</h2>
 
 <table>
   <tr>
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<h2>🔭 Currently exploring</h2>
+<h2>Currently exploring</h2>
 
 - AI-agent orchestration with LangChain, LangGraph and DeepAgents.
 - Agent-based database migration and software engineering tools.
